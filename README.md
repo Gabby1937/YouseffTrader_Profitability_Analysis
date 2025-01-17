@@ -4,6 +4,41 @@
 
 This project focuses on analyzing Youseff's option trade reports to derive meaningful insights, identify trading patterns, and explore strategies that contributed to trading outcomes. The analysis will involve cleaning, organizing, and visualizing data from the raw Excel file to provide actionable insights.
 
+---
+
+## Charts and Insights
+
+### Dashboard Overview
+![Dashboard Overview](Dashboard.jpg "YouseffTrader Analysis Dashboard")
+**Description:** A comprehensive view of YouseffTrader's performance and trading trends for Week 2 of January 2025.
+
+### Total Options Comparison
+![Total Options Comparison](Option_Comparison.jpg "Total Options Comparison")
+**Description:** A breakdown of total Buy and Sell trades, showcasing the distribution of trading activity.
+
+### Most Successful Martingales By Ranking
+![Most Successful Martingales By Ranking](Most_Successful_Martingales.jpg "Most Successful Martingales By Ranking")
+**Description:** Ranking of the most successful Martingale strategies based on the number of wins.
+
+### Trading Session Comparison
+![Trading Session Comparison](Trading_Session_Comparison.jpg "Trading Session Comparison")
+**Description:** A comparison of trading session performance across different times of the day.
+
+### Top 8 Most Traded Pairs Comparison
+![Top 8 Most Traded Pairs Comparison](Top_8_Traded_Pairs.jpg "Top 8 Most Traded Pairs Comparison")
+**Description:** A bar chart illustrating the Buy and Sell distribution of the top 8 traded currency pairs.
+
+### Most Traded Currency Pairs By Ranking
+![Most Traded Currency Pairs By Ranking](Traded_Currency_Pairs_Ranking.jpg "Most Traded Currency Pairs By Ranking")
+**Description:** Ranking of currency pairs by trading frequency, showing the most traded pairs overall.
+
+### Week Two Victory Analysis
+![Week Two Victory Analysis](Week_Two_Victory.jpg "Week Two Victory Analysis")
+**Description:** A detailed analysis of daily trade victories during Week 2 of January 2025.
+
+---
+
+
 ## Goals of the Project
 
 1. Understand the overall performance of trades.
