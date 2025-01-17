@@ -17,19 +17,19 @@ This project focuses on analyzing Youseff's option trade reports to derive meani
 **Description:** A breakdown of total Buy and Sell trades, showcasing the distribution of trading activity.
 
 ### Most Successful Martingales By Ranking
-![Most Successful Martingales By Ranking](Most_Successful_Martingales.jpg "Most Successful Martingales By Ranking")
+![Most Successful Martingales By Ranking](Martingale_Ranking.jpg "Most Successful Martingales By Ranking")
 **Description:** Ranking of the most successful Martingale strategies based on the number of wins.
 
 ### Trading Session Comparison
-![Trading Session Comparison](Trading_Session_Comparison.jpg "Trading Session Comparison")
+![Trading Session Comparison](Session_Comparision.jpg "Trading Session Comparison")
 **Description:** A comparison of trading session performance across different times of the day.
 
 ### Top 8 Most Traded Pairs Comparison
-![Top 8 Most Traded Pairs Comparison](Top_8_Traded_Pairs.jpg "Top 8 Most Traded Pairs Comparison")
+![Top 8 Most Traded Pairs Comparison](Top_8_Pairs.jpg "Top 8 Most Traded Pairs Comparison")
 **Description:** A bar chart illustrating the Buy and Sell distribution of the top 8 traded currency pairs.
 
 ### Most Traded Currency Pairs By Ranking
-![Most Traded Currency Pairs By Ranking](Traded_Currency_Pairs_Ranking.jpg "Most Traded Currency Pairs By Ranking")
+![Most Traded Currency Pairs By Ranking](Currency_Pair_Ranking.jpg "Most Traded Currency Pairs By Ranking")
 **Description:** Ranking of currency pairs by trading frequency, showing the most traded pairs overall.
 
 ### Week Two Victory Analysis
